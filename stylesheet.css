@@ -1,0 +1,22 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    
+}
+body {
+    display: block;
+    text-align: center;
+    align-items: center;
+    background-color: #d5e1ef;
+}
+.mainContainer {
+    background-color: #ffffff;
+    height: 500px;
+    width: 300px;
+    margin: auto;
+    height: auto;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
